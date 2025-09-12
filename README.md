@@ -1,4 +1,4 @@
-# Aaccount-deletion-info
+# Account-deletion-info
 # How to Delete Your Account
 
 If you would like to delete your account associated with our app, please follow the instructions below:
