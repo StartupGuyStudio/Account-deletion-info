@@ -7,7 +7,7 @@ Go to Profile -> Delete -> permanently delete my account and all data.
 
 If need more help.
 
-1. **Send an email** to `startupguystudio.team@gmail.com` with the subject: "Delete My Account".
+1. **Send an email** to `startupguystudio.team@gmail.com` with the subject: "Delete My (APP NAME) Account".
 2. Include your **registered email** and **username** (if applicable).
 3. Your account will be permanently deleted within 7 working days.
 
